@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Abdurrahim Hassan Kururu.   I'm professional Mobile Apps Developer,  working as flutter and Android Native  developer . I have a fast learning skills  , always looing forward to improve my skills, i always try to implement a clean way in my projets",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -81,22 +81,21 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "CitySoft",
+        "title": "Mobile Developer",
+        "years": "2021 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Flutter"
         ],
         "technologies": [
+          "Dart",
+          "Flutter",
           "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Firebase",
+          "Android Studio",
+          "Kotlin",
+          "Github" 
+         
         ]
       },
       {
