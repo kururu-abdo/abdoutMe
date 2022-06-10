@@ -11,12 +11,19 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
+        "title": "Home CRM",
+        "startDate": "2022",
         "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/home_crm/1.jpg",
+          "images/home_crm/2.jpg",
+          "images/home_crm/3.jpg",
+          "images/home_crm/4.jpg",
+          "images/home_crm/5.jpg",
+          "images/home_crm/6.jpg",
+          "images/home_crm/7.jpg",
+          "images/home_crm/8.jpg",
+          "images/home_crm/9.jpg"
         ],
         "url": "",
         "technologies": [

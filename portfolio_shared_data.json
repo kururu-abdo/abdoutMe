@@ -5,13 +5,13 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/kururu-abdo",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "Twitter",
+          "url": "https://www.twitter.com/kururu95",
+          "class": "fab fa-twitter"
         }
       ],
       "image": "myProfile.jpg"
@@ -28,6 +28,37 @@
         {
           "name": "MySql",
           "class": "devicon-mysql-plain",
+          "level": "60"
+        } ,
+
+        {
+          "name": "Kotlin",
+          "class": "devicon-kotlin-plain",
+          "level": "60"
+        } ,
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "60"
+        } ,
+        {
+          "name": "Flutter",
+          "class": "devicon-flutter-plain",
+          "level": "60"
+        },
+        {
+          "name": "Dart",
+          "class": "devicon-dart-plain",
+          "level": "60"
+        },
+        {
+          "name": "Android",
+          "class": "devicon-anroid-plain",
+          "level": "60"
+        },
+        {
+          "name": "Firebase",
+          "class": "devicon-firebase-plain",
           "level": "60"
         }
       ]

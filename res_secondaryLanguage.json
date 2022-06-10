@@ -1,18 +1,49 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "مرحبا",
+      "description": "عبدالرحيم حسن كرورو ,مطور تطبيقات أندويد ",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "حول عبدالرحيم",
+        "projects": "المشاريع",
+        "skills": "المهارات",
+        "experience": "الخبرة "
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
+        "title": "Home CRM",
+        "startDate": "2022",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "images": [
+          "images/home_crm/1.jpg",
+          "images/home_crm/2.jpg",
+          "images/home_crm/3.jpg",
+          "images/home_crm/4.jpg",
+          "images/home_crm/5.jpg",
+          "images/home_crm/6.jpg",
+          "images/home_crm/7.jpg",
+          "images/home_crm/8.jpg",
+          "images/home_crm/9.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Password Manager",
+        "startDate": "2022",
         "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
